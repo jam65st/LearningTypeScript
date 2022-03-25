@@ -1,7 +1,7 @@
 {
   "name": "learning_typescript",
   "version": "0.0.1",
-  "description": "This project is a basement to setup a TypeScript project, learn, develop skills and improve the performance in the use and transfer of past experiences in OOP, Java, and ActionScript",
+  "description": "This project is a foundation to set up a TypeScript project, learn, develop skills and improve the performance in the use and transfer of past experiences in OOP (from Java, ActionScript, or another language)\n\nThe tutorial about it is available on [DEV.to](https://dev.to/jam65st/setting-up-a-typescript-project-with-intellij-idea-ddg-temp-slug-7192451/)",
   "main": "dist/app.js",
   "scripts": {
     "start": "tsc && node dist/app.js",
